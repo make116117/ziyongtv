@@ -1100,6 +1100,20 @@ ssis-108,https://siwazywcdn2.com:5278/zhongwenzimu/bZXowNav/index.m3u8
 ssni-828,https://siwazywcdn2.com:5278/zhongwenzimu/FMriTsOa/index.m3u8
 ssni-824儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/XNlqgRve/index.m3u8
 
+自用频道,#genre#
+
+
+
+Dorcel TV HD,http://194.163.179.246/slovenci/porno/dorcel.m3u8
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/index.m3u8
+Redlight HD,http://93.152.174.144:4000/play/privatetv1/tracks-v1a1/index.m3u8
+Hustler TV,http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/244/index.m3u8
+Hustler TV,http://193.33.240.8:8080/hustler_hd/index.m3u8
+Hustler TV,http://193.33.240.8:80/hustler_hd/video.m3u8
+brazzers,http://82.80.132.222:8000/play/Brazzers_TV/index.m3u8
+Digital Vision ,https://ss3.domint.net:3120/dv6_str/digitalvision/chunklist_w432787620.m3u8
+
+
 私密頻道1,#genre#
 
 K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
