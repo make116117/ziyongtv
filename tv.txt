@@ -287,6 +287,8 @@ CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://anren.live/HK/AQtQ.m3u8
+阜阳新闻,https://p2.weizan.cn/1110366022/132008090586131531/live.m3u8
+涡阳新闻综合,http://111.39.71.77:8099/live/one/playlist.m3u8
 
 
 电影频道,#genre#
