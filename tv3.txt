@@ -711,6 +711,18 @@ CCTV-17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225910/index.m
 上海纪实,http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
 上海纪实8M,http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 
+
+老家频道,#genre#
+
+利辛综合频道,http://linxinbf.fst1994.cn/live/xinwen.m3u8
+利辛影视频道,http://linxinbf.fst1994.cn/live/yingshi.m3u8
+亳州农村频道,http://zbbf2.ahbztv.com/live/418.m3u8
+亳州新闻频道,http://zbbf2.ahbztv.com/live/416.m3u8
+阜阳新闻,https://p2.weizan.cn/1110366022/132008090586131531/live.m3u8
+涡阳新闻综合,http://111.39.71.77:8099/live/one/playlist.m3u8
+
+
+
 💞港澳台,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
