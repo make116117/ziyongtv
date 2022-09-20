@@ -390,6 +390,38 @@ NewTV欢乐剧场,http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.
 NewTV欢乐剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221226210/index.m3u8
 
 
+💥  4K专区,#genre#
+
+纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+4K连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+CCTV16-奥林匹克4K,http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+纯享4K,http://39.135.138.58:18890/PLTV/88888888/224/3221225786/index.m3u8
+4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=X7wAAPMizr_MF-gW&secondToken=secondToken%3A08GykFLGXy4k9xKOwtRpMVC8WOU&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+欢笑剧场4K,http://111.20.33.82:80/PLTV/88888893/224/3221226582/index.m3u8?icpid=88888893&from=1&hms_devid=844
+欢笑剧场4K,http://112.17.40.218:80/PLTV/88888888/224/3221230739/1.m3u8
+苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://3740480834.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=wIgAANH1UieYTeIW&secondToken=secondToken%3AlDV9er1_pa4JZ7B_HTFDHqOPHaI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+欢笑剧场4K,http://111.20.33.70/PLTV/88888893/224/3221226582/index.m3u8
+纯享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+苏州4K,http://3740480837.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=VooAANf18QP9F-QW&secondToken=secondToken%3AMc0mRObNpYc8gL7T_KxOb7N02NI&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+CCTV4K-HD,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+纯享4K,http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
+东方影视,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
+欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
+李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+CCTV8K-8K超高清,http://117.148.129.93:80/PLTV/88888888/224/3221233350/1.m3u8
+纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+CCTV4K-HD,https://p.ggiptv.com/v/4k.m3u8
+4K影院,http://epg.112114.xyz/douyu/9249162
+黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
+HBO2,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+爱上4K,http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+爱上4K,http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
+
+
 
 📡卫视,#genre#
 
