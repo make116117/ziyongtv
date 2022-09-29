@@ -1,6 +1,4 @@
-﻿🇨🇳｜长期维护,#genre#
-9月28日更新,https://share.nite07.com/api/v3/file/source/19597/tv2.mp4?sign=vq2wXbs95lYiP-1xnmrIZq2ZDNuLpX3ap4Dua1iYbSQ%3D%3A0
-9月28日更新,https://share.nite07.com/api/v3/file/source/19596/tv.mp4?sign=HWfJjbifv3WLr0ASQRVDMrgyVW2kmdVvu28aR0sEQik%3D%3A0
+
 
 🇨🇳｜央视频道,#genre#
 CCTV1,http://39.134.32.102:6610/270000001111/1110000301/index.m3u8?IASHttpSessionId=OTT$超清1080P
