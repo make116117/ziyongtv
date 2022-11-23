@@ -1,7 +1,7 @@
 
     {
       "key":"js豆瓣",
-      "name":"🍀公众号:应用多多,更新时间:2022/11/23",
+      "name":"🍀老马专用",
       "type":3,
       "api":"https://codeberg.org/leevi/duo/raw/branch/main/js/yingmo.js",
       "ext":"https://codeberg.org/leevi/duo/raw/branch/main/js/douban.js",
