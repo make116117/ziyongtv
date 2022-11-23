@@ -1,6 +1,4 @@
-﻿{
-  "sites": [
-//{ "key":"douban","name":"🍀公众号:应用多多,更新时间:2022/11/17","type":4, "api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch":0,"filterable": 0 },
+
     {
       "key":"js豆瓣",
       "name":"🍀公众号:应用多多,更新时间:2022/11/23",
