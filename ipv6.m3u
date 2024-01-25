@@ -286,7 +286,7 @@ http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 #EXTINF:-1 tvg-id="淮南新闻综合" tvg-name="淮南新闻综合"  tvg-logo="https://live.fanmingming.com/tv/淮南新闻综合.png" group-title="安徽频道",淮南民生频道
 http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/make116117/ziyongtv@main/mmexport1564887478515.png" group-title="抖音直播",douyu8 
+#EXTINF:-1 tvg-logo="http://downhdlogo.yy.com/hdlogo/640640/640/640/24/2562240085/u2562240085Zp8jsSq.jpg" group-title="抖音直播",douyu8 
 http://epg.112114.xyz/douyu/4332
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/make116117/ziyongtv@main/mmexport1564887478515.png"group-title="抖音直播",douyu9
 http://epg.112114.xyz/douyu/6140589
