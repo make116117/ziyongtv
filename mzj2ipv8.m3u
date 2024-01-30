@@ -254,7 +254,7 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226602/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海频道",上海哈哈炫动[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226618/1.m3u8
-#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语频道[1920x1080]
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海频道",上海外语频道[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226201/1.m3u8
 #EXTINF:-1,tvg-id="上海东方购物[1920x1080]" tvg-name="上海东方购物[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海频道",上海东方购物[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226691/1.m3u8
