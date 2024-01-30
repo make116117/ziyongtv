@@ -239,12 +239,29 @@ http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="超高清频道",CCTV-16 奥林匹克 4K
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-#EXTINF:-1 tvg-id="F01" tvg-name="上海新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai1.png" group-title="上海频道",上海新闻综合
+
+#EXTINF:-1,tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.112114.xyz/logo/上海新闻综合.png" group-title="上海频道",上海新闻综合[1920x1080]
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226620/1.m3u8
 #EXTINF:-1 tvg-id="F02" tvg-name="上海都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai2.png" group-title="上海频道",上海都市
 http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
-#EXTINF:-1 tvg-id="F04" tvg-name="上海外语" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shanghai4.png" group-title="上海频道",上海外语
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
+#EXTINF:-1,tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海频道",上海纪实人文[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226174/1.m3u8
+#EXTINF:-1,tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.112114.xyz/logo/上海第一财经.png" group-title="上海频道",上海第一财经[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226172/1.m3u8
+#EXTINF:-1,tvg-id="SITV 东方财经[1920x1080]" tvg-name="SITV 东方财经[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/SITV东方财经.png" group-title="上海频道",SITV 东方财经[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226602/1.m3u8
+#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="上海频道",SITV 生活时尚[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226358/1.m3u8
+#EXTINF:-1,tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.112114.xyz/logo/哈哈炫动.png" group-title="上海频道",上海哈哈炫动[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226618/1.m3u8
+#EXTINF:-1,tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.112114.xyz/logo/上海外语.png" group-title="上海",上海外语频道[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226201/1.m3u8
+#EXTINF:-1,tvg-id="上海东方购物[1920x1080]" tvg-name="上海东方购物[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海频道",上海东方购物[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226691/1.m3u8
+#EXTINF:-1,tvg-id="上海东方购物[1920x1080]" tvg-name="上海东方购物[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海频道",上海东方购物[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226711/1.m3u8
+#EXTINF:-1,tvg-id="上海东方购物[1920x1080]" tvg-name="上海东方购物[1920x1080]" tvg-logo="https://epg.112114.xyz/logo/上海东方购物.png" group-title="上海频道",上海东方购物[1920x1080]
+http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226622/1.m3u8
 #EXTINF:-1 tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png" group-title="浙江频道",浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png" group-title="浙江频道",浙江国际
